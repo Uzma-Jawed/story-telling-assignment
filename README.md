@@ -75,8 +75,10 @@ The notebook includes:
 
 🤍 Author
 Uzma Jawed
+
 📘 Python & Data Science Enthusiast
-🌐 LinkedIn | 📸 Instagram
+
+🌐 [LinkedIn](https://www.linkedin.com/in/uzma-jawed)
 
 ---
 
